@@ -12,7 +12,7 @@ PromptGuardian Pro is a real-time, session-aware security layer that acts as a f
 
 ### 🔥 The Problem
 
-As LLMs like GPT-4 become widely adopted, they are increasingly vulnerable to:
+As LLMs like cohere become widely adopted, they are increasingly vulnerable to:
 - Prompt injection attacks
 - Jailbreak attempts
 - Multi-turn dialogue manipulation (slowburn attacks)
@@ -39,7 +39,7 @@ Current solutions rely on static filters that can't detect context-aware attacks
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/promptguardian-pro.git
+git clone https://github.com/yourusername/promptguardX.git
 cd promptguardian-pro
 ```
 
@@ -71,7 +71,7 @@ streamlit run app.py
 ## 🧰 Tech Stack
 
 - **Frontend**: Streamlit
-- **LLM Engine**: OpenAI GPT-4 API
+- **LLM Engine**: cohere
 - **Backend**: Python
 - **Configuration**: dotenv, JSON
 - **Data Protection**: PII redaction with regex patterns
@@ -90,6 +90,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 🙏 Acknowledgements
 
-- OpenAI for the GPT API
+- cohere
 - Streamlit for the UI framework
 - All contributors and hackathon organizers
