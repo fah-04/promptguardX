@@ -8,7 +8,7 @@ Real-Time AI Firewall for Prompt Injection & Jailbreak Defense
 
 ## 📌 About The Project
 
-PromptGuardian Pro is a real-time, session-aware security layer that acts as a firewall for AI prompts. It protects AI applications from prompt injections and jailbreak attempts through intelligent monitoring, risk scoring, and automatic intervention.
+Prompt GuardX is a real-time, session-aware security layer that acts as a firewall for AI prompts. It protects AI applications from prompt injections and jailbreak attempts through intelligent monitoring, risk scoring, and automatic intervention.
 
 ### 🔥 The Problem
 
