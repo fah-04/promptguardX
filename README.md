@@ -1,4 +1,4 @@
-# 🛡️ PromptGuardian Pro
+# 🛡️ Prompt GuardX
 
 Real-Time AI Firewall for Prompt Injection & Jailbreak Defense
 
